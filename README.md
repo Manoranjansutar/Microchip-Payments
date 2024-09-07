@@ -3,10 +3,10 @@
 
 
 <p>Live Demo</p>
-<p>Frontend live sever - https://help-center-frontend-ryos.vercel.app/</p>
-<p>Backend live server - https://helpcenter-backend-3.onrender.com/</p>
+<p>Frontend live sever - https://microchip-frontend-jade.vercel.app/</p>
+<p>Backend live server - https://microchip-backend.onrender.com/</p>
 
-
+<p>google drive vide0 link- https://drive.google.com/file/d/1jmvXXMCAzrLGuVZmxRQEXLcdW7F59bXQ/view?usp=drive_link</p>
 
 ## Frontend Setup
 
@@ -31,10 +31,10 @@
 
 <p>3. Configure Environment Variables</p>
 <p>Create a <code>.env</code> file in the <code>backend</code> directory and add the following variable:</p>
-<pre><code>MONGODB_URL="mongodb+srv://manoranjanrkl2009:s9xqfs9dy7RjIY9P@cluster0.isirm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"</code></pre>
+<pre><code>MONGODB_URL="mongodb+srv://microchippayments:ZnrdBl8I8pI2h9XC@cluster0.zerqz.mongodb.net/"</code></pre>
 
 <p>4. Run the Backend Server</p>
 <pre><code>npx nodemon server.js</code></pre>
 
-<p>The backend server should now be running at <a href="http://localhost:4000">http://localhost:4000</a>.</p>
+<p>The backend server should now be running at <a href="http://localhost:5000">http://localhost:5000</a>.</p>
 
